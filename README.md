@@ -1,10 +1,9 @@
 ![alt text](https://images2.imgbox.com/7b/69/JmThU2fE_o.png)
 
-- 👋 Hi, I’m @earlytuesdaymorning
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Tuesday! 
+- I have skills in HTML and CSS
+- I’m currently learning JavaScript and jQuery
+- How to reach me... [Email](mailto:rahrah93@gmail.com) [LinkedIn](https://www.linkedin.com/in/mariah-hernandez-a68514154/)
 
 <!---
 earlytuesdaymorning/earlytuesdaymorning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
