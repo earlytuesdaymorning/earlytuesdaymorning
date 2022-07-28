@@ -1,4 +1,4 @@
-![Screenshot](https://i.imgur.com/hTXkP39.png)
+![Screenshot](https://images2.imgbox.com/cf/1c/C3QpBnB9_o.png)
 
 - Hi, I’m Tuesday! 
 - I have skills in HTML and CSS
