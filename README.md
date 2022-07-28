@@ -1,6 +1,10 @@
 ![Screenshot](https://images2.imgbox.com/cf/1c/C3QpBnB9_o.png)
 
-# You can call me Tuesday
+<h1 align="center">You can call me Tuesday...</h1>
+
+<p align="center">
+I have been interested in coding since I was a teenager, teaching myself HTML and CSS in my room so I can make my social media pretty. After losing my home in New Jersey, I moved back to Arizona, where I was born, and decided to follow my passion in tech. Professionally, I have worked in retail and customer service for 8 years. For 4 of those years I was in management and training positions. My time in this industry has given me an eye for design, taught me how to work with customers or clients to get them a product that they want and discover what else they need, and also shown me how to be adaptable and learn new skills very quickly. I have been certified in software engineering by General Assembly, and recently completed a bootcamp course. I am proficient in JavaScript (along with jQuery, Node.js, Express, and React) and in Python (along with Django and PyGame), and am currently self-studying Ruby on Rails.
+</p>
 
 <h2 align="center">How to Reach Me 💘</h2>
 
