@@ -36,6 +36,8 @@ I am a self-starter who researched and learned HTML and CSS as a teenager. I hav
 ![SQLite3](https://img.shields.io/badge/-SQLite3-ffffff?style=plastic&logo=sqlite&logoColor=blue)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-add8e6?style=plastic&logo=django)
+![jQuery](https://img.shields.io/badge/-jQuery-0f1131?style=plastic&logo=jquery&logoColor=2d3993)
+![mongoDB](https://img.shields.io/badge/-mongoDB-cacaca?style=plastic&logo=mongodb&logoColor=4ec03b)
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
