@@ -6,6 +6,10 @@
 I am a self-starter who researched and learned HTML and CSS as a teenager. I have worked in retail and customer service for 8 years, 4 of those years in management positions. My time in this industry has given me an eye for design, taught me how to work with others to find creative solutions to problems, and also shown me how to be adaptable and learn new skills very quickly. I have been certified in software engineering by General Assembly, after completing an immersive course. I am proficient in JavaScript and in Python, and I am currently studying Ruby on Rails.
 </p>
 
+<p align="center">
+I'm 28 and I love pink, cats, and sparkly things. I also love to code, but the tech industry is mostly male. I am proud to be a woman in tech and think it is important to bring that perspective into web and game design, therefore I strive to bring a feminine energy into my work to celebrate that.
+</p>
+
 <h2 align="center">How to Reach Me 💘</h2>
 
 <p align="center">
