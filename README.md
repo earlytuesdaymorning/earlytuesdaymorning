@@ -25,6 +25,7 @@ I am a self-starter who researched and learned HTML and CSS as a teenager. I hav
 <h2 align="center">Tech Stack 🖥️</h2>
 
 <p align="center"> 
+  
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
