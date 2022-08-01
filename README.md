@@ -53,8 +53,8 @@ I'm 28 and I love pink, cats, and sparkly things. I also love to code! I am prou
 
 <h4 align="center">Top languages :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earlytuesdaymorning&langs_count=10&theme=tokyonight&layout=compact" alt="earlytuesdaymorning :: Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earlytuesdaymorning&langs_count=10&theme=bear&layout=compact" alt="earlytuesdaymorning :: Top Languages" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=earlytuesdaymorning&show_icons=true&theme=synthwave" alt="earlytuesdaymorning :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=earlytuesdaymorning&show_icons=true&theme=bear" alt="earlytuesdaymorning :: Profile Stats" /></p>
