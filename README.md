@@ -26,13 +26,16 @@ I am a self-starter who researched and learned HTML and CSS as a teenager. I hav
 
 <p align="center"> 
   
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff) 
+![Python](http://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=ffff4a)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=plastic&logo=sass&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-c75f47?style=plastic&logo=css3&logoColor=3f4ac4)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&color=d1b01f)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js&logoColor=00d632)
+![React](https://img.shields.io/badge/-React-%23282C34?style=plastic&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
+![SQLite3](https://img.shields.io/badge/-SQLite3-ffffff?style=plastic&logo=sqlite&logoColor=blue)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-add8e6?style=plastic&logo=django)
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
