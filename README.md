@@ -3,7 +3,7 @@
 <h1 align="center">You can call me Tuesday...</h1>
 
 <p align="center">
-I have been interested in coding since I was a teenager, teaching myself HTML and CSS in my room so I can make my social media pretty. After losing my home in New Jersey, I moved back to Arizona, where I was born, and decided to follow my passion in tech. Professionally, I have worked in retail and customer service for 8 years. For 4 of those years I was in management and training positions. My time in this industry has given me an eye for design, taught me how to work with customers or clients to get them a product that they want and discover what else they need, and also shown me how to be adaptable and learn new skills very quickly. I have been certified in software engineering by General Assembly, and recently completed a bootcamp course. I am proficient in JavaScript (along with jQuery, Node.js, Express, and React) and in Python (along with Django and PyGame), and am currently self-studying Ruby on Rails.
+I am a self-starter who researched and learned HTML and CSS as a teenager. I have worked in retail and customer service for 8 years, 4 of those years in management positions. My time in this industry has given me an eye for design, taught me how to work with others to find creative solutions to problems, and also shown me how to be adaptable and learn new skills very quickly. I have been certified in software engineering by General Assembly, after completing an immersive course. I am proficient in JavaScript and in Python, and I am currently studying Ruby on Rails.
 </p>
 
 <h2 align="center">How to Reach Me 💘</h2>
@@ -24,16 +24,14 @@ I have been interested in coding since I was a teenager, teaching myself HTML an
 
 <h2 align="center">Tech Stack 🖥️</h2>
 
-<p align="center">
-  
+<p align="center"> 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
-  
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff) 
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
