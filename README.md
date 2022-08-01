@@ -7,7 +7,7 @@ I am a self-starter who researched and learned HTML and CSS as a teenager. I hav
 </p>
 
 <p align="center">
-I'm 28 and I love pink, cats, and sparkly things. I also love to code, but the tech industry is mostly male. I am proud to be a woman in tech and think it is important to bring that perspective into web and game design, therefore I strive to bring a feminine energy into my work to celebrate that.
+I'm 28 and I love pink, cats, and sparkly things. I also love to code! I am proud to be a woman in tech and think it is important to bring that perspective into web and game design, therefore I strive to bring a feminine energy into my work to celebrate that. 💕
 </p>
 
 <h2 align="center">How to Reach Me 💘</h2>
